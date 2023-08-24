@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.ba44c2ef.css",
+    "main.js": "/personal-portfolio/static/js/main.70577a2f.js",
+    "static/media/insolubleslion.png": "/personal-portfolio/static/media/insolubleslion.8cac2c364656035c6e47.png",
+    "static/media/space.jpg": "/personal-portfolio/static/media/space.64e65bbe82c5bdb44b7e.jpg",
+    "static/media/neongrad1.jpg": "/personal-portfolio/static/media/neongrad1.c181d268f8a3261cc3d3.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.ba44c2ef.css.map": "/personal-portfolio/static/css/main.ba44c2ef.css.map",
+    "main.70577a2f.js.map": "/personal-portfolio/static/js/main.70577a2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba44c2ef.css",
+    "static/js/main.70577a2f.js"
+  ]
+}
